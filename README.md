@@ -12,7 +12,7 @@ Desarrollada con **React Native** (Expo) implementando la arquitectura **MVVM (M
   - **Base de Datos Local (SQLite):** (Opcional/Integrada en diseño)
   - **Remota (API REST):** Backend en Node.js con Express y SQLite para gestionar el catálogo de productos y órdenes.
 
-## 🛠️ Lo que hemos implementado en esta sesión
+## 🛠️ Lo implementado
 
 1. **Backend Local (API REST):**
    - Se configuró un servidor Node.js + Express en la carpeta `backend/`.
